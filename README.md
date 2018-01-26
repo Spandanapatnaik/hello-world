@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+From ECE to CS, pulling off myself. 
